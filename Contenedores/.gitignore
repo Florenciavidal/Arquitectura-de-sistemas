@@ -1,7 +1,0 @@
-*.tar
-*.zip
-*.tar.gz
-__pycache__/
-*.pyc
-.env
-.DS_Store
